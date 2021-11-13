@@ -1,0 +1,35 @@
+body {
+    background: #000000;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #000000, #000000);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #000000, #000000);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.mrg{
+    margin-top: 5px !important;
+    padding-left: 2rem !important;
+}
+
+.bg-dar{
+    color: black !important;
+}
+.responsive {
+    max-width: 75%;
+    height: auto;
+}
+
+
+
+.displayBox {
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.scroll-box {
+    overflow-y: auto;
+    height: 500px;
+    float: left;
+    padding: 1rem;
+}
